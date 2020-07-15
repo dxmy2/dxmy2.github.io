@@ -1,6 +1,6 @@
 title: dxmy2 # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  my description
+  dxmy2
   
 url: https://dxmy2.github.io # 你的域名，例如 https://xxx.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
@@ -221,16 +221,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     height: 100%;
                     position: relative;
                     transition: all 0.5s ease-in-out;
-                  }
-                  .effect-img:before {
-                    position: absolute;
-                    display: block;
-                  }
-                  .effect-right_to_left .effect-img {
-                    transform-origin: 0% 50%;
-                  }
-                  .effect-right_to_left:hover .effect-img {
-                    transform: rotate3d(0, 1, 0, -180deg);
                   }
                 </style>
               - | # 不蒜子页面统计，看不懂可不改
