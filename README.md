@@ -1,2 +1,2 @@
-# Homepage of dxmy2
+# Homepage
 欢迎访问我的个人主页
