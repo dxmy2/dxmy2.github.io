@@ -5,11 +5,11 @@
 
 ## 联系方式
 
-- Address:  **Soochow University-No. 50, East Huhuan Road-SuZhou,China**
-- Phone:    **+86 18018122379**
-- E-mail:   **wj.dxmy2@gmail.com**
-- WeChat:   **dxmy2-2965-jie**
-- QQ:       **1248599602**
+- Address:**Soochow University-No. 50, East Huhuan Road-SuZhou,China**
+- Phone:**+86 18018122379**
+- E-mail:**wj.dxmy2@gmail.com**
+- WeChat:**dxmy2-2965-jie**
+- QQ:**1248599602**
 
 ## 教育情况
 
