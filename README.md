@@ -1,25 +1,21 @@
-# <center>Homepage</center>
+# Homepage
 
-<center>欢迎访问dxmy2的个人主页！</center>
+欢迎访问dxmy2的个人主页！
 <!-- .slide -->
 
-## <center>联系方式</center>
+## 联系方式
 
-- Address: <center>**Soochow University-No. 50, East Huhuan Road-SuZhou,China**</center>
+- Address:  **Soochow University-No. 50, East Huhuan Road-SuZhou,China**
+- Phone:    **+86 18018122379**
+- E-mail:   **wj.dxmy2@gmail.com**
+- WeChat:   **dxmy2-2965-jie**
+- QQ:       **1248599602**
 
-- Phone: <center>**+86 18018122379**</center>
+## 教育情况
 
-- E-mail: <center>**wj.dxmy2@gmail.com**</center>
-
-- WeChat: <center>**dxmy2-2965-jie**</center>
-
-- QQ: <center>**1248599602**</center>
-
-## <center>教育情况</center>
-
-<center>Computer Science and Technology,Soochow University</center>
+Computer Science and Technology,Soochow University
 <!-- .slide -->
 
 ## <center>说明</center>
 
-<center>个人主页参考：[jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn)</center>
+个人主页参考：[jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn)
