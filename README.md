@@ -5,15 +5,15 @@
 
 ## <center>联系方式</center>
 
-<center>Address: Soochow University-No. 50, East Huhuan Road-SuZhou,China</center>
+- Address: <center>**Soochow University-No. 50, East Huhuan Road-SuZhou,China**</center>
 
-<center>Phone: +86 18018122379</center>
+- Phone: <center>**+86 18018122379**</center>
 
-<center>E-mail: wj.dxmy2@gmail.com</center>
+- E-mail: <center>**wj.dxmy2@gmail.com**</center>
 
-<center>WeChat: dxmy2-2965-jie</center>
+- WeChat: <center>**dxmy2-2965-jie**</center>
 
-<center>QQ: 1248599602</center>
+- QQ: <center>**1248599602**</center>
 
 ## <center>教育情况</center>
 
