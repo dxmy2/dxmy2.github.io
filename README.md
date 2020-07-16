@@ -1,2 +1,25 @@
-# Homepage
-欢迎访问我的个人主页
+##### <center>Homepage</center>
+
+欢迎访问dxmy2的个人主页！
+
+###### <center>联系方式</center>
+
+Address: Soochow University-No. 50, East Huhuan Road-SuZhou,China
+
+Phone: +86 18018122379
+
+E-mail: wj.dxmy2@gmail.com
+
+WeChat: dxmy2-2965-jie
+
+QQ: 1248599602
+
+###### <center>教育情况</center>
+
+Computer Science and Technology,Soochow University
+
+###### <center>说明</center>
+
+个人主页参考：[jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn)
+
+
