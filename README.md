@@ -1,6 +1,7 @@
 # <center>Homepage</center>
 
 <center>欢迎访问dxmy2的个人主页！</center>
+<!-- .slide -->
 
 ## <center>联系方式</center>
 
@@ -17,7 +18,8 @@
 ## <center>教育情况</center>
 
 <center>Computer Science and Technology,Soochow University</center>
+<!-- .slide -->
 
-###### <center>说明</center>
+## <center>说明</center>
 
 <center>个人主页参考：[jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn)</center>
