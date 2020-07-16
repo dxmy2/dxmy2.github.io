@@ -10,12 +10,12 @@
 - E-mail:**wj.dxmy2@gmail.com**
 - WeChat:**dxmy2-2965-jie**
 - QQ:**1248599602**
-
+<!-- .slide -->
 ## 教育情况
 
 Computer Science and Technology,Soochow University
 <!-- .slide -->
 
-## <center>说明</center>
+## 说明
 
 个人主页参考：[jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn)
